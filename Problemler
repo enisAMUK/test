@@ -1,0 +1,142 @@
+Interview coding problems/challenges
+Hey geeks! Up for solving the problems which are being asked in interviews?
+
+Here you go...
+
+We are trying to list out the most frequently asked interview problems or the problem given in the coding rounds of IT giants.
+
+For you we have detailed analysis:
+
+A proper explanation of question with explanations so that you can have a nice idea of your own and can think about a solution yourself.
+A detailed explanation of the solution with a generalized algorithm so that you can code yourself without checking our codes given at the end.
+If still, you have issues to figure out a solution then step by step explanation of the code. A detailed explanation of how the code works with the example?
+Don't think you will need anything more!!
+Benefits if you hit our Interview coding problems pages: Definitely, we may have better ad sense earning more you hit the pages. But it’s not actually for us. The more you hit, the more you practice, the more you get prepared. You have to do some serious coding if you need to get hired. All over the net, you are surely in a loop considering where to start from. Here are we to light you up and that’s why we chose and place the best problems here. Some may seem to be easy, some may seem to be tough. No, issue if it’s easy just check whether you have a more optimized solution or not. If you have a more optimized solution, then feel free to post in the comments. Remember sharing is caring!!
+
+String
+
+Run-length encoding (find/print frequency of letters in a string)
+Checking Anagrams (check whether two string is anagrams or not)
+Count and Say sequence
+Longest Common Prefix
+Count Substrings
+Number following the pattern
+Next Permutation
+Convert Ternary Expression to Binary Tree
+Count of strings that can be formed using a, b and c under given constraints
+Minimum Number of Flips
+Count Occurrences of Anagrams
+Rearrange a string
+Print bracket number
+Longest Palindromic Subsequence
+Arrays
+
+Sort an array of 0's, 1's and 2's in linear time complexity
+Check for Valid Sudoku
+Palindromic Array
+Largest Fibonacci Subsequence
+Pairs of songs with total durations divisible by 60
+Sorting
+
+Sort an array of 0's, 1's and 2's in linear time complexity
+Relative sorting algorithm
+Searching
+
+Finding First Bad Version
+Maximum value in a bitonic array
+Coding Algorithms
+
+Run-length encoding (find/print frequency of letters in a string)
+Sort an array of 0's, 1's and 2's in linear time complexity
+Finding subarray with given sum
+1[0]1 Pattern Count
+Capitalize first and last letter of each word in a line
+Greedy Strategy to solve major algorithm problems
+Job sequencing problem
+Exit Point in a Matrix
+Generate Gray Code Sequences
+Picking Numbers
+Tree
+
+Find the level in a binary tree with given sum K
+Check whether a Binary Tree is BST (Binary Search Tree) or not
+Print vertical sum of a binary tree
+Print Boundary Sum of a Binary Tree
+Root to leaf Path Sum
+Print All Nodes that don't have Sibling
+Two Mirror Trees
+Transform to Sum Tree
+Symmetric Tree
+Convert Sorted Array to Binary Search Tree
+Odd even level difference in a binary tree
+Check if Tree is Isomorphic
+Expression Tree
+K distance from root
+Right View of Binary Tree
+Diameter of Binary Tree
+Delete nodes greater than or equal to k in a BST
+Reverse Level Order Traversal
+Diagonal Traversal of Binary Tree
+Leftmost and Rightmost Nodes of Binary Tree
+Lowest Common Ancestor in a BST
+Convert Ternary Expression to Binary Tree
+Bottom View of Binary Tree
+Ancestors in Binary Tree
+All Root to Leaf Paths
+Sum of all numbers formed by root to leaf path
+Minimum distance between two given nodes of a Binary Tree
+K-th smallest element in a Binary Search Tree
+Level order traversal in spiral form
+Stack
+
+Number following the pattern
+Print bracket number
+Linked list
+
+Reverse a single linked list
+Find length of loop in a linked list
+Palindrome Linked List
+Intersection Point in Y-Shaped Linked List
+Absolute sorting on a single linked list
+Graph
+
+Rotten Oranges
+Alien Dictionary
+Find the number of islands
+Check a graph is Hamiltonian or not (Hamiltonian path)
+Knight walk problem
+Greedy Algorithms
+
+Greedy Strategy to solve major algorithm problems
+Job sequencing problem
+Fractional knapsack problem
+Dynamic Programming
+
+0-1 Knapsack Algorithm
+House Robber
+Coin Change
+Word Break Problem
+Matrix
+
+Exit Point in a Matrix
+Shortest Source to Destination Path
+Recursion
+
+Palindromic Array
+Number theory
+
+Sieve of Eratosthenes
+Bitwise operators
+
+Game of XOR
+Puzzle
+
+Prisoners and the poison
+Miscellaneous
+
+Find nth Magic number
+Toppers of Class
+Where is my seat?
+Google CodeJam 2019 | Foregone Solution
+Find the perfect land of C shape
+Find the magic matrix
