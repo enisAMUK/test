@@ -1,1 +1,6 @@
+1) Run-length encoding (find/print frequency of letters in a string)
+		Here, we are going to learn how to find/print the frequency of letters in a string using run-lentgh encoding?
 
+		Problem description
+
+		Write a program that counts frequency of each letter in the string (string consists lowercase letters only).
