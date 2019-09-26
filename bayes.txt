@@ -1,0 +1,79 @@
+package test;
+
+import java.util.HashMap;
+
+	enum level{
+		LOW,
+		MEDIUM,
+		HIGH
+	}
+
+public class StringConvert {
+    private static final String THREAD_NAME = "threadName";
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String [][] matrix = new String[4][3];
+		int count = 0;
+		for (int i = 0; i < matrix.length; i++) {
+			for (int j = 0; j < matrix[0].length; j++) {
+				count++;
+				if(i == 0) {
+					if (j == 0) {
+						matrix[i][j] = "LOW   "; 
+					} else if(j ==1){
+						matrix[i][j] = "MEDIUM"; 
+					} else if(j ==2){
+						matrix[i][j] = "HIGH  "; 
+					}
+					
+				}
+				else {
+					matrix[i][j] = Integer.toString(count); 
+				}
+			}
+		}
+/*		for (int i = 0; i < matrix.length; i++) {
+				System.out.println(matrix[i].toString()); 
+		}
+*/	
+		HashMap<String, String[]> values = new HashMap<String, String[]>();
+		for (int i = 0; i < matrix.length; i++) {
+			for (int j = 0; j < matrix[0].length; j++) {
+				if (i == 0) {
+					//tableNames[j] = matrix[i][j];
+					if (!values.containsKey(matrix[i][j])) {
+						//String[] arrString = new String[2];
+						values.put(matrix[i][j], new String[matrix.length-1]);
+						//System.out.println( "===>  "+ values.get(j));
+					}
+				}
+				else {
+					//if (!columnName.equals(tableNames[j])) {
+						//fillFrequencyTable(matrix,tableNames[j],columnName);						
+					//}
+					if (values.get(matrix[0][j]) == null) {
+						System.out.println("is nullllllll");
+					}
+					(values.get(matrix[0][j]))[i-1] = matrix[i][j]; 
+					
+				}
+			}
+		}
+		for (String key : values.keySet()) {
+			for (int i = 0; i < values.get(key).length; i++) {
+				System.out.print(" Key = " + key + "  value --> " + values.get(key)[i]);
+			}
+			System.out.println();
+		}
+		
+	}
+	 public String getThreadName() {
+	        return null;//this.getString(THREAD_NAME);
+	    }
+	 
+	 
+		public void extractValues(double [][] matrix) {
+			
+		}
+}
