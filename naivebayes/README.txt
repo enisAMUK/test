@@ -55,3 +55,7 @@ Yukarda anlatıldığı şekilde Naive Bayes teoreminin Java dilinde geliştiril
   4- Naive Bayes formülü ile olasılığın hesaplanması                          (Bu işlem üzerinde çalışma devam ediyor)
   
   Adımları gerçekleştirilmek istenmiştir.
+  Naive Baye teoremi tamamlandıktan sonra;
+    - dempster shafer teoremi,
+    - Transferable Belief Model(TBM) 
+   ile ilgili algoritmalar yazılmala çalışılacaktır.
