@@ -1,0 +1,33 @@
+NOTE :  In this file, there are some algorithm names to study.
+
+
+Algorithms:
+  - Greedy Algorithm[1][2][3][4][5]
+    To Optimize GreedyAlgorithm
+      - Basic Interval Scheduling Problem
+      - Scheduling All Intervals Problem
+   
+  
+  - Dynamic Programming[1]
+    - Weight Interval Scheduling Problem
+    - Longest Increasing Common Subsequence Problem
+    - Longest Common Subsequence Problem
+    - Knapsack Problem
+    - Matrix Chain Multiplication Problem
+    
+    
+  - A* Search[3]
+  - Dijkstra's Shortest Path Algorithm[3]
+  - The Travelling Salesman Problem[3]
+  - Huffman Encoding[3]
+    
+    
+
+
+
+
+[1] https://medium.com/cracking-the-data-science-interview/greedy-algorithm-and-dynamic-programming-a8c019928405
+[2] http://bilgioloji.com/pages/yazilim/kod/program/algoritma/ornek/acgozlu-algoritma-yaklasimi-ile-bozuk-para-secimi-problemi-nasil-cozulur/
+[3] https://brilliant.org/wiki/greedy-algorithm/
+[4] https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/
+[5] https://www.geeksforgeeks.org/greedy-algorithms/
