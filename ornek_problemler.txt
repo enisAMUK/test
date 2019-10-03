@@ -1,4 +1,9 @@
-
+---------
+Araştırma konusu
+	------Multi-agent coordination techniques for naval tactical combat resources management
+	
+---------
+	
 https://www.includehelp.com/tips/c/
 https://www.includehelp.com/icp/
 Programlama ile ilgili örnek problemler;
