@@ -1,4 +1,4 @@
-aşağıdaki komut ile jar dosyalarına decompile işlemi yapabiliriz.
+Komut satırında(command prompt) aşağıdaki komut ile jar dosyalarına decompile işlemi yapabiliriz.
 
   java -jar cfr-0.143.jar com.oracle.jmc.console.ui.mbeanbrowser_6.0.0.173920.jar --outputdir \tmp\mbeanbrowser
   
