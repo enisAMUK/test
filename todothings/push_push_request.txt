@@ -1,0 +1,13 @@
+Bir görevi isteyen ile işi yapacak kişi arasındaki mekanizma tasarlamak istenmektedir. Bu mekanizma basitçe aşağıdaki yapıda olacaktır;
+1) Görevi isteyen ne istediği bilgisini bu ara katmana iletecek ve ara katman bu işi yapacak olan kişiye iletecek.
+2) Burada ara katman aşağıdaki gibi çalışabilir;  
+    - Sürekli görevi isteyecek kişiye "yeni bir görev" var mı diye sormak,
+    - Görevi isteyecek kişi yeni bir görev oluşturduğunda ara katmanı uyandıracak ve görevi yapmasını isteyecek.
+    
+
+Bir örnek üzerinde açıklamak gerekirse;
+  Elimizde kullanıcı arayüzü ve bir adet joystick olsun. Bunlar bilgi girişi sağlayan mekanizmalar(kişiler). Bunlar bir pedestalı kontrol etmek istesin. Pedestal, bir tripod üzerinde bulunan yatayda 360 derece, dikeyde belli bir açıyla dönebilen bir mekanizmadır. Arayüzden dönüş için gerekli bilgiler girilebilir ya da joystick hareketi ile bu dönüş bilgileri alınabilir. Arayüz ve joystick'ten bu bilgileri alıp pedestala ileten bir mekanizma olması isteniyor. Bu ara katman ya sürekli yeni bir bilgi girişi var mı diye arayüz/joystick ile konuşacak ya da arayüz/joystick bir bilgi girdiğinde uyandırılarak ilgili bilgi doğrultusunda pedestalı hareket ettirecek.
+  
+  
+  
+  Yukarıda anlatılan yapının herhangi bir programlama dilinde tasarlanması işlemini yapppppp.
