@@ -10,3 +10,6 @@ programlar yaratmamıza olanak sağlar
  OpenGL, donanım-bağımsız bir arayüzdür.
 
 
+https://ceng2.ktu.edu.tr/~cakir/files/graflab/foyler/1_OpenGL.pdf
+https://ceng2.ktu.edu.tr/~cakir/files/graflab/foyler/
+
