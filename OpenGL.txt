@@ -1,0 +1,12 @@
+OpenGL (Open Graphic Library) de gelişmiş grafik uygulamaları için
+geliştirilen bir kütüphanedir. 
+
+OpenGL grafik kütüphanesi, grafik donanımına bir yazılım arayüzüdür. 2D ya da 3D nesnelerden
+oluşan hareket eden görüntüler üreten, interaktif, çok çeşitli bilgisayar platformlarında çalışabilecek
+programlar yaratmamıza olanak sağlar
+
+
+
+ OpenGL, donanım-bağımsız bir arayüzdür.
+
+
