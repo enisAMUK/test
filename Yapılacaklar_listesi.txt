@@ -1,3 +1,10 @@
 1) Herhangi bir programlama dilindeki problemler için örnek yetersizliğini azaltabilecek documanlar oluşturulmalı.
     - Eclipse plug-in yazmak. -> Plugin yazılırken nelere dikkat edilmeli ve çalışma prensibi nasıl olmalı.  
     - MATLAB GUİ ile ilgili detaylı örnekler anlatılmalı. Event base yapı olan örnekler olursa iyi olur.
+
+
+
+
+2) PPİ ekranı oluşturma işlemi yapılsın.
+
+https://www.codeproject.com/Articles/20067/Drawing-a-Radar-Display-Using-C
