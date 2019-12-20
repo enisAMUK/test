@@ -4,7 +4,7 @@ http://www.ibrahimcayiroglu.com/Dokumanlar/MekatronikProjeUygulamasi/10-Gomulu_S
 
 analog sinyalden veri okuma nasıl yapılır? araştır.
 analog sinyali dijital sinyale nasıl dönüştürürüz?
-Analogtan dijitale dönüştürülen veri nasıl okunup bilgisayar ekranında sergilenir.
+Analogtan dijitale dönüştürülen veri nasıl okunup bilgisayar ekranında sergilenir?
 
 
 
