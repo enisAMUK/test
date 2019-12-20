@@ -12,4 +12,10 @@ Basic serial port listening application
 https://www.codeproject.com/Articles/75770/Basic-serial-port-listening-application
 
 
+https://www.virtual-serial-port.org/articles/how-to-read-serial-data/
+
+
+
+
+
 
