@@ -1,1 +1,10 @@
 http://www.ibrahimcayiroglu.com/Dokumanlar/MekatronikProjeUygulamasi/10-Gomulu_Sistemlerin_Seri_Haberlesmesi-Kaan_KARAPINAR-Eyup_Furkan_KAYA.pdf
+
+
+
+analog sinyalden veri okuma nasıl yapılır? araştır.
+analog sinyali dijital sinyale nasıl dönüştürürüz?
+Analogtan dijitale dönüştürülen veri nasıl okunup bilgisayar ekranında sergilenir.
+
+
+
