@@ -19,3 +19,7 @@ https://stackoverflow.com/questions/17964864/how-to-read-data-from-serial-port-a
 
 
 https://freeserialanalyzer.com/
+
+
+
+https://www.libelium.com/forum/viewtopic.php?t=23761
