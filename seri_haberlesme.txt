@@ -14,7 +14,7 @@ https://www.codeproject.com/Articles/75770/Basic-serial-port-listening-applicati
 
 https://www.virtual-serial-port.org/articles/how-to-read-serial-data/
 
-
+https://stackoverflow.com/questions/17964864/how-to-read-data-from-serial-port-and-write-to-serial-port
 
 
 
